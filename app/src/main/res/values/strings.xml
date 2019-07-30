@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Screen Recorder</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="status">Recording Status :</string>
+    <string name="toggleButton">Start</string>
+    <string name="title_user_settings">Settings</string>
+    <string name="screen_cast_permission_denied_error">Screen Cast Permission Denied</string>
+    <string name="current_storage_path_text">Saved to: %s</string>
+    <string name="about_dialog_title">About</string>
+    <string name="about_dialog_message">App Developed by \n\n DONEPUDIRAJESH</string>
+    <string name="about_dialog_positive_button_text">Okay!</string>
+    <string name="path_storage_instruction_text">Set storage path for the recording.\nCurrently allows paths that are in \n%s only.</string>
+    <string name="reset_dialog_title">Reset</string>
+    <string name="reset_dialog_positive_button_text">Yes</string>
+    <string name="reset_dialog_negative_button_text">No</string>
+    <string name="reset_dialog_success_text">Okay, done.</string>
+    <string name="notice">Click on the above green button to start screen recording \n\n To stop the screen recording again click on the same green button</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="saved_to">Saved to :</string>
+    <string name="off">OFF</string>
+
+
+</resources>
